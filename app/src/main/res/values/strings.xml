@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aluguel de Carros</string>
+    <string name="welcome_title">Sua locadora começa aqui</string>
+    <string name="welcome_message">Organize veículos, clientes e locações em um só lugar.</string>
+    <string name="start_button">Começar</string>
+</resources>
